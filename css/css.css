@@ -1,0 +1,116 @@
+#photo
+{
+	margin-top: -350px;
+	width: 205px;
+	height: 320px;
+}
+
+body 
+{
+	position: relative;
+	background-image: url(bg.png);
+	background-size: 100% 140%;
+}
+
+#Name
+{
+	margin-top: -40px;
+	margin-left: 15px;
+	color:white;
+	font-size: 25pt;
+}
+
+#Job
+{
+	font-size: 17pt;
+	margin-left: 17px;
+	margin-top: -42px;
+	color:white;
+	
+}
+#Overnames /*выравнивание данных по высоте и установка размер шрифта*/
+{
+	font-size: 14pt;
+	margin-top: 80px;
+	
+}
+
+.names 
+{
+	margin-left: 500px;
+	margin-top: 20px;
+	padding: 5px;
+	
+}
+.ExpAndEdu /*Образование и опыт работы выравнивание*/
+{
+	margin-top: 40px;
+	margin-left: 240px;
+	font-size: 18pt;
+	color: #424142;
+}
+.input /*Содержимое опыта и образования*/
+{
+	margin-left: 360px;
+	margin-top: -75px;
+	padding: 50px;
+	font-size: 14pt; 
+}
+#OverIn
+{
+	float: right;
+	font-size:14pt;
+	margin-top: -300px;
+	
+}
+.in
+{
+	margin-right: 360px;
+	margin-top: 28PX;
+	border: 1PX solid;
+	border-color: white;
+	width: 200PX;
+	
+}
+hr 
+{
+	margin-top: -13px;
+    border: none;
+    background-color: grey;
+    color: red; /*IE6-7 */
+    height: 2px;
+}
+#contacts
+{
+	margin-top: 8px;
+	margin-left: 545px;
+	font-size: 14pt;
+}
+#YouTube
+{
+	margin-left: 470px;
+	height: 23px;
+	width:25px;
+}
+#Vk
+{
+	margin-left: 540px;
+	height: 23px;
+	width:25px;
+}
+#Inst
+{
+	margin-left: 610px;
+	height: 23px;
+	width:25px;
+}
+.img
+{
+	margin-top: 8px;
+}
+a
+{
+	display: inline-block;
+	height:23px;
+	width:25px; 
+}
